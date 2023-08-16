@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+Testing/.vs/Testing/v17/.suo
+
+Testing/Testing/obj/
+
+*.user
+
+Testing/.vs/
+
+Testing/Testing/bin/
